@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Implementation\Interfaces\" />
+    <Folder Include="Implementation\Services\" />
+  </ItemGroup>
+
 </Project>
